@@ -1,6 +1,6 @@
 # PaperShip
 
-A decomp-based PC port of Paper Mario 64 using [libultraship]([https://github.com/HarbourMasters/libultraship](https://github.com/Kenix3/libultraship)).
+A decomp-based PC port of Paper Mario 64 using [libultraship](https://github.com/Kenix3/libultraship).
 
 Built from the [Paper Mario decompilation](https://github.com/pmret/papermario) with a custom PORT layer that bridges N64 hardware calls to modern PC graphics (Metal/OpenGL/DirectX), audio, and input via libultraship.
 
