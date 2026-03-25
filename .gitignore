@@ -1,0 +1,41 @@
+# Build directories
+build/
+cmake-build-*/
+out/
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+.vs/
+
+# Generated files
+properties.h
+port/build.c
+
+# ROM and archives (user-provided)
+*.z64
+*.n64
+*.v64
+*.o2r
+*.otr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Save data
+*.cfg.json
+
+# Mods (user content)
+mods/*.o2r
+mods/*.otr
+
+# Compiled objects
+*.o
+*.obj
+*.exe
+*.app
+*.nro
+*.appimage
