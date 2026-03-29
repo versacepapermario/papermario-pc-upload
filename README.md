@@ -26,7 +26,7 @@ This project is a **clean-room PC port** built entirely from the publicly availa
 ### 1. Get the source code
 
 ```bash
-git clone --recursive <repo-url>
+git clone --recursive https://github.com/versacepapermario/papermario-pc-upload.git
 cd papermario-recomp
 ```
 
