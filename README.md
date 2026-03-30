@@ -27,7 +27,7 @@ This project is a **clean-room PC port** built entirely from the publicly availa
 
 ```bash
 git clone --recursive <repo-url>
-cd papermario-recomp
+cd papermario-pc-upload
 ```
 
 If you already cloned without `--recursive`:
@@ -153,7 +153,7 @@ See `PORT_SKIPS.md` for a complete list of stubbed features.
 ## Architecture
 
 ```
-papermario-recomp/
+papermario-pc-upload/
 ├── src/              # Decomp game source (C) with #ifdef PORT adaptations
 ├── include/          # Game headers
 ├── port/             # PORT layer: OS stubs, ROM loading, texture conversion,
